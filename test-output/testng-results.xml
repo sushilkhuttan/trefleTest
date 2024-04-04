@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-04T16:25:36 BST" name="Default suite" finished-at="2024-04-04T16:25:38 BST" duration-ms="1968">
+  <suite started-at="2024-04-04T16:51:20 BST" name="Default suite" finished-at="2024-04-04T16:51:22 BST" duration-ms="2009">
     <groups>
     </groups>
-    <test started-at="2024-04-04T16:25:36 BST" name="Default test" finished-at="2024-04-04T16:25:38 BST" duration-ms="1968">
+    <test started-at="2024-04-04T16:51:20 BST" name="Default test" finished-at="2024-04-04T16:51:22 BST" duration-ms="2009">
       <class name="zodiaTest.testZodia">
-        <test-method signature="plant(java.lang.String,int)[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:25:36 BST" name="plant" data-provider="authdata" finished-at="2024-04-04T16:25:38 BST" duration-ms="1717" status="PASS">
+        <test-method signature="plant(java.lang.String,int)[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:51:20 BST" name="plant" data-provider="authdata" finished-at="2024-04-04T16:51:22 BST" duration-ms="1730" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- plant -->
-        <test-method signature="plant(java.lang.String,int)[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:25:38 BST" name="plant" data-provider="authdata" finished-at="2024-04-04T16:25:38 BST" duration-ms="91" status="PASS">
+        <test-method signature="plant(java.lang.String,int)[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:51:22 BST" name="plant" data-provider="authdata" finished-at="2024-04-04T16:51:22 BST" duration-ms="84" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- plant -->
-        <test-method signature="plantlist()[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:25:38 BST" name="plantlist" finished-at="2024-04-04T16:25:38 BST" duration-ms="123" status="PASS">
+        <test-method signature="plantlist()[pri:0, instance:zodiaTest.testZodia@68b6f0d6]" started-at="2024-04-04T16:51:22 BST" name="plantlist" finished-at="2024-04-04T16:51:22 BST" duration-ms="144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- plantlist -->
